@@ -1,0 +1,7 @@
+.main-div {
+  width: 100vw !important;
+  background-color: black !important;
+  position: fixed;
+  /* top: 0; */
+  z-index: 100;
+}
